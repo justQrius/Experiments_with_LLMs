@@ -186,6 +186,3 @@ scraper_cache/
 *.env.save
 *.png
 nohup.out
-
-# Git setup script (only for local use)
-# setup_git_history.ps1
